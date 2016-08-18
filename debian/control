@@ -1,0 +1,16 @@
+Source: pencil
+Section: graphics
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Build-Depends: debhelper (>= 9)
+Uploaders: Mahyuddin <dotovr@di.blankon.in>
+Standards-Version: 3.9.6
+Homepage: http://pencil.evolus.vn/
+VCS-git: git://github.com/volus/pencil.git
+VCS-Browser: https://github.com/evolus/pencil
+
+Package: pencil
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: An open-source GUI prototyping tool that is available for ALL platforms.
+  An open-source GUI prototyping tool that is available for ALL platforms.

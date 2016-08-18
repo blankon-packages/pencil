@@ -1,0 +1,42 @@
+pencil (3.0.0rc1-0blankon1) tambora; urgency=medium
+
+  * New upstream release
+    - Rewrite to javascript + electron
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 18 Aug 2016 14:30:17 +0700
+
+evoluspencil (2.0.4blankon10) suroboyo; urgency=low
+
+  * upload to suroboyo.
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Mon, 28 Jan 2013 18:44:58 +0700
+
+evoluspencil (2.0.4blankon3) rote-updates; urgency=low
+
+  * debian/control
+  	- remove Depends: ${shlibs:Depends}
+  	- change Section: graphics
+  	- change Priority: optional  
+  * change debian/install
+  * rename usr/share/pencil/skin/classic/icon.svg to pencil.svg
+  * added debian/source/format
+
+ -- Mahyuddin <dotovr@di.blankon.in>  Mon, 28 Jan 2013 18:18:40 +0700
+
+evoluspencil (2.0.4blankon2.1) rote-updates; urgency=low
+
+  * revision depends.
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Sun, 27 Jan 2013 16:51:02 +0700
+
+evoluspencil (2.0.4blankon2) rote-updates; urgency=low
+
+  * add berkas compat. 
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Sat, 26 Jan 2013 16:45:57 +0700
+
+evoluspencil (2.0.4blankon1) rote-updates; urgency=low
+
+  * Initial release.
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Sat, 26 Jan 2013 05:12:10 +0700
